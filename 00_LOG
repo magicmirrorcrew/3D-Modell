@@ -1,6 +1,7 @@
 BobRiggedTest v0.0.1
 
 - absolute ROHFASSUNG
+- proportionen noch nicht final
 - skin noch nicht mit dem weightool bearbeitet -> verzerrungen des mesh beim bewegen der joints 
 - noch keine constraints eingefügt -> falsche unnatürliche bewegungen mgölichwenn kinect falsche daten sendet -> verrenkungen und generelle fehler
 - kopf - detailierter? weniger details? -> noch nicht mit dem restlichen mesh vernünftig verbunden -> sichtbare kanten
